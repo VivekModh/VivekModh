@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @VivekModh
-- 👀 I’m interested in spreading awareness  ...
-- 🌱 I’m currently learning netoworking and devops ...
-- 💞️ I’m looking to collaborate  ...
-- 📫 How to reach me by following on Linkedin @vivek modh...
+- 👋 Hi, I’m Vivek Modh  
+- 👀 I’m passionate about DevOps and modern infrastructure technologies  
+- 🌱 I’m currently enhancing my skills in cloud computing, CI/CD pipelines, and Automation  
+- 💞️ I’m looking to collaborate on projects related to DevOps, cloud infrastructure, and AI systems  
+- 📫 Connect with me on LinkedIn: [Vivek Modh](https://www.linkedin.com/in/vivek-modh)
 
 <!---
 VivekModh/VivekModh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
