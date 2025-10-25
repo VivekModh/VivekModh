@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekmodh&label=Profile%20views&color=0e75b6&style=flat" alt="vivekmodh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekmodh" alt="vivekmodh" /></a> </p>
-
 - 🌱 I’m currently learning **Cloud, DevOps and AI**
 
 - 📫 How to reach me **vivekmodh03@gmail.com**
